@@ -8,7 +8,9 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          Edit <code>src/App.js</code> and save to reload.
+          Udvozlom az erdeklodoket. Ez a referencia munkam egy docker 
+          continuous workflow-hoz.
+          Kiss Tamas
         </p>
         <a
           className="App-link"
